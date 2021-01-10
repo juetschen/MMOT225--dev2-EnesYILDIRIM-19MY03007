@@ -1,3 +1,8 @@
+Ödev7 Bilgisayarım olmadığı için Geç Yükledim
+
+
+
+
 # MMOT225-EnesYILDIRIM-19MY03007
 
 MMOT225
