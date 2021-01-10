@@ -27,7 +27,7 @@ export default class Restoran_Getir extends React.Component{
     });
   }
   tiklandi(id){
-    var str = 'https://developers.zomato.com/api/v2.1/reviews?res_id=16694272'+id;
+    var str = 'https://developers.zomato.com/api/v2.1/reviews?res_id=16694272';  //"https://developers.zomato.com/api/v2.1/reviews?res_id=7   https://developers.zomato.com/api/v2.1/reviews?res_id=16694272
     fetch(str,{
       method:'GET',
       headers:{
